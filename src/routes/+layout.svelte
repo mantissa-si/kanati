@@ -191,8 +191,9 @@
 <div class="h-[50px]"></div>
 
 <!-- FOOTER -->
-<div class="pb-12 text-center md:text-lg lg:text-base">
-    <a href="mailto:info@kanati.si">info@kanati.si</a><br>
+<div class="pb-12 text-center md:text-2xl lg:text-xl">
+    <a class="pb-4" href="mailto:info@kanati.si">info@kanati.si</a><br>
+    <div class="h-[10px]"></div>
     <a href="tel:+386 40 123 456">+386 64 234 577</a>
 </div>
 

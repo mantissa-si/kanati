@@ -104,7 +104,7 @@
             </div>
             {#if selected === 4}
                 <p class="my-4">
-                    <b>Vesna Stipetić</b> ima večletne izkušnje na področju operative.
+                    <b>Nika Lebar</b> ima večletne izkušnje na področju operative.
                     Skrbi za vso potrebno dokumentacijo, operativni del posla in komunikacijo.
                     Vodi operativni del od pričetka sodelovanja do končne realizacije posla.
                 </p>
@@ -120,7 +120,7 @@
             </div>
             {#if selected === 3}
                 <p class="my-4">
-                    Skrbimo za skrbni pregled posla, oceno tveganja in možnost investiranja. Nadaljnjo redno komunikacijo in pomoč pri rasti in razvoju.
+                    <b>Rok Rekelj</b> skrbi za skrbni pregled posla, oceno tveganja, možnost investiranja, nadaljnjo redno komunikacijo ter pomoč pri rasti in razvoju.
                 </p>
             {/if}
         </div>
@@ -194,7 +194,7 @@
 <div class="pb-12 text-center md:text-2xl lg:text-xl">
     <a class="pb-4" href="mailto:info@kanati.si">info@kanati.si</a><br>
     <div class="h-[10px]"></div>
-    <a href="tel:+386 40 123 456">+386 64 234 577</a>
+    <a href="tel:+386 64 299 685">+386 64 299 685</a>
 </div>
 
 <slot />

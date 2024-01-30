@@ -192,7 +192,7 @@
 
 <!-- FOOTER -->
 <div class="pb-12 text-center md:text-2xl lg:text-xl">
-    <a class="pb-4" href="mailto:info@kanati.si">info@kanati.si</a><br>
+    <a class="pb-4" href="mailto:nika.lebar@kanati.si">nika.lebar@kanati.si</a><br>
     <div class="h-[10px]"></div>
     <a href="tel:+386 64 299 685">+386 64 299 685</a>
 </div>

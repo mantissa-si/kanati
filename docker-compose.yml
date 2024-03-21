@@ -1,0 +1,7 @@
+services:
+  kanati:
+    build: .
+    container_name: kanati
+    restart: unless-stopped
+    ports:
+      - 42000:3000

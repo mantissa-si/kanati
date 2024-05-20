@@ -111,20 +111,6 @@
             {/if}
         </div>
         <hr>
-        <div class="mt-4">
-            <!-- svelte-ignore a11y-click-events-have-key-events -->
-            <div class="cursor-pointer" on:click={() => toggle(3)}>
-                <h1 class="text-3xl lg:text-4xl mb-2">
-                    Poslovni analitik
-                </h1>
-            </div>
-            {#if selected === 3}
-                <p class="my-4">
-                    <b>Rok Rekelj</b> skrbi za skrbni pregled posla, oceno tveganja, možnost investiranja, nadaljnjo redno komunikacijo ter pomoč pri rasti in razvoju.
-                </p>
-            {/if}
-        </div>
-        <hr>
     </div>
 
     <!-- IMAGE -->
